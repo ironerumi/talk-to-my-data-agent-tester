@@ -31,3 +31,6 @@ coverage/
 # Output directories
 dist/
 build/
+*.env
+*.txt
+*.csv
